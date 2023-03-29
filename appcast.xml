@@ -3,7 +3,7 @@
     <channel>
         <title>SLX – English Chat and Courses</title>
         <item>
-            <title>Version 8.0.1</title>
+            <title>Version 9.5.1</title>
             <description>- fixed privacy policy and moved it from about page to main page before registering.
 - Added accept button to policy
 - Block Fixed. You can now block people easily.
@@ -14,7 +14,7 @@
 - Voice Messages to Improve English Conversation by Voice
 </description>
             <pubDate>Wed, 28 Mar 2023 06:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.slx.practice_english&hl=en&gl=US" sparkle:version="1.0.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.slx.practice_english&hl=en&gl=US" sparkle:version="9.5.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
